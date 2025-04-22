@@ -10,7 +10,7 @@
 
 **Duration**: Nov, 2021 – Jan, 2022
 
-**Website**: [https://gribverden.dk/](https://gribverden.dk/)
+**Website**: <a href="https://gribverden.dk/" target="_blank">https://gribverden.dk/</a>
 
 ![GribVerden website](img/GribVerden_Screenshot.png)
 
@@ -26,7 +26,7 @@ I created this site from scratch using WordPress. I used Elementor to create the
 
 **Duration**: Apr, 2019 – Now
 
-**Website**: [https://www.deskcamera.com/](https://www.deskcamera.com/)
+**Website**: <a href="https://www.deskcamera.com/" target="_blank">https://www.deskcamera.com/</a>
 
 ![DeskCamera Project](/img/DeskCamera_Screenshot.png)
 
