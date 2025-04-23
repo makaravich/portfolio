@@ -14,11 +14,11 @@
 ---
 ## Website for MyInterview Company
 
-**Duration**: Nov, 2024 – Jan, 2025
+![Website for MyInterview Company](/img/myinterview_com.png)
 
 **Website**: [https://www.myinterview.com/](https://www.myinterview.com/)
 
-![Website for MyInterview Company](/img/myinterview_com.png)
+**Duration**: Nov, 2024 – Jan, 2025
 
 **Description**:
 
@@ -40,11 +40,11 @@ The final result was a modern, high-performance website that meets high standard
 ---
 ## Website for a cybersecurity company
 
-**Duration**: Feb, 2024 – Aug, 2024
+![Website for a cybersecurity company](/img/cx_com.png)
 
 **Website**: [https://checkmarx.com/](https://checkmarx.com/)
 
-![Website for a cybersecurity company](/img/cx_com.png)
+**Duration**: Feb, 2024 – Aug, 2024
 
 **Description**:
 
@@ -71,11 +71,11 @@ This project demonstrated my ability to handle complex architecture and deliver 
 ---
 ## Website for an IT-company
 
-**Duration**: May, 2022 – Sep, 2022
+![Website for an IT-company](/img/sqream_com.png)
 
 **Website**: [https://sqream.com/](https://sqream.com/)
 
-![Website for an IT-company](/img/sqream_com.png)
+**Duration**: May, 2022 – Sep, 2022
 
 **Description**:
 
@@ -100,11 +100,11 @@ The result was a robust, maintainable, and fully customized WordPress site tailo
 ---
 ## GribVerden website
 
-**Duration**: Nov, 2021 – Jan, 2022
+![GribVerden website](img/GribVerden_Screenshot.png)
 
 **Website**: [https://gribverden.dk/](https://gribverden.dk/)
 
-![GribVerden website](img/GribVerden_Screenshot.png)
+**Duration**: Nov, 2021 – Jan, 2022
 
 **Description**:
 
@@ -117,11 +117,11 @@ I created this site from scratch using WordPress. I used Elementor to create the
 ---
 ## E-commerce Website
 
-**Duration**: Jun, 2021 – Oct, 2021
+![E-commerce Website](/img/mimisocks_com.png)
 
 **Website**: [https://mimisocks.com/](https://mimisocks.com/)
 
-![E-commerce Website](/img/mimisocks_com.png)
+**Duration**: Jun, 2021 – Oct, 2021
 
 **Description**:
 
@@ -142,11 +142,11 @@ As part of the project, I also carried out thorough testing to eliminate bugs an
 ---
 ## Real Estate website
 
-**Duration**: Jul, 2020 – Aug, 2020
+![Real Estate website](/img/cozyboise_com.png)
 
 **Website**: [https://cozyboise.com/](https://cozyboise.com/)
 
-![Real Estate website](/img/cozyboise_com.png)
+**Duration**: Jul, 2020 – Aug, 2020
 
 **Description**:
 
@@ -161,11 +161,11 @@ The final result fully met the client's expectations, and they were very satisfi
 ---
 ## DeskCamera Project
 
-**Duration**: Apr, 2019 – Now
+![DeskCamera Project](/img/DeskCamera_Screenshot.png)
 
 **Website**: [https://www.deskcamera.com/](https://www.deskcamera.com/)
 
-![DeskCamera Project](/img/DeskCamera_Screenshot.png)
+**Duration**: Apr, 2019 – Now
 
 **Description**:
 
@@ -180,11 +180,11 @@ To streamline content management and enhance flexibility, I developed a set of c
 ---
 ## Legal company website
 
-**Duration**: Jan, 2018 – Now
+![Legal company website](/img/fesenkolaw_com.png)
 
 **Website**: [https://fesenkolaw.com/](https://fesenkolaw.com/)
 
-![Legal company website](/img/fesenkolaw_com.png)
+**Duration**: Jan, 2018 – Now
 
 **Description**:
 

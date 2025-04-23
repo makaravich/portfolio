@@ -32,15 +32,16 @@ $output .= "\n---\n";
 foreach ($projects as $project) {
     $anchor = generateAnchor($project['Project Name']);
     $output .= "## {$project['Project Name']}\n\n";
-    $output .= "**Duration**: {$project['Start Date']} – {$project['End Date']}\n\n";
+
+    if (!empty($project['Picture URL'])) {
+        $output .= "![{$project['Project Name']}]({$project['Picture URL']})\n\n";
+    }
 
     if (!empty($project['URL'])) {
         $output .= "**Website**: [{$project['URL']}]({$project['URL']})\n\n";
     }
 
-    if (!empty($project['Picture URL'])) {
-        $output .= "![{$project['Project Name']}]({$project['Picture URL']})\n\n";
-    }
+    $output .= "**Duration**: {$project['Start Date']} – {$project['End Date']}\n\n";
 
     if (!empty($project['Description'])) {
         $output .= "**Description**:\n\n{$project['Description']}\n\n";
