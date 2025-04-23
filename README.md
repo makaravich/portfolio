@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Website for MyInterview Company](#website-for-myinterview-company)
 - [Website for a cybersecurity company](#website-for-a-cybersecurity-company)
 - [Website for an IT-company](#website-for-an-it-company)
 - [GribVerden website](#gribverden-website)
@@ -9,6 +10,32 @@
 - [Real Estate website](#real-estate-website)
 - [DeskCamera Project](#deskcamera-project)
 - [Legal company website](#legal-company-website)
+
+---
+## Website for MyInterview Company
+
+**Duration**: Nov, 2024 – Jan, 2025
+
+**Website**: [https://www.myinterview.com/](https://www.myinterview.com/)
+
+![Website for MyInterview Company](/img/myinterview_com.png)
+
+**Description**:
+
+The MyInterview website was built using a headless architecture. WordPress serves as the backend, handling content management and user data, while the frontend is entirely powered by Next.js. Communication between the frontend and WordPress is handled via GraphQL, allowing for fast, dynamic, and scalable data exchange.
+
+I was responsible for developing the backend functionality of the project. My tasks included:
+
+- Creating custom Gutenberg blocks for flexible content editing  
+- Ensuring proper handling and structure of GraphQL requests from the frontend  
+- Maintaining a true WYSIWYG experience within the WordPress admin panel  
+- Communicating directly with the client to find optimal technical solutions  
+- Refactoring and improving existing code for better maintainability  
+- Optimizing backend performance for speed and efficiency
+
+The final result was a modern, high-performance website that meets high standards of security, speed, and user experience.
+
+**Key Skills**: Headless, WordPress, PHP, Gutenberg blocks, ACF, GraphQL, API
 
 ---
 ## Website for a cybersecurity company
