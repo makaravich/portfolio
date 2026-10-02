@@ -1,5 +1,9 @@
 # My Web Projects Portfolio
 
+I'm Dzmitry Makarski, a WordPress developer with 10+ years of experience, based in Warsaw, Poland. I build custom themes and plugins, work on site performance and Core Web Vitals, integrate third-party APIs, and develop Telegram bots in PHP and Python. Top Rated on Upwork with 116 completed jobs.
+
+[Upwork](https://www.upwork.com/freelancers/~012916600d2f0b1723) · [LinkedIn](https://www.linkedin.com/in/d-makarski/) · [GitHub](https://github.com/makaravich)
+
 ## Table of Contents
 
 - [Website for a cybersecurity company](#website-for-a-cybersecurity-company)
@@ -53,7 +57,7 @@ A large part of my current work on this site is mobile PageSpeed and Core Web Vi
 
 This project demonstrated my ability to handle complex architecture and deliver reliable, scalable solutions for enterprise-level WordPress websites.
 
-**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, API, Performance optimization, Core Web Vitals, WP Rocket, Support
+**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, API integrations, Performance optimization, Core Web Vitals, WP Rocket, Support
 
 ---
 ## Makarski Bot Connector for Telegram (WordPress.org plugin)
@@ -128,7 +132,7 @@ I was responsible for developing the backend functionality of the project. My ta
 
 The final result was a modern, high-performance website that meets high standards of security, speed, and user experience.
 
-**Key Skills**: Headless, WordPress, PHP, Gutenberg blocks, ACF, GraphQL, API
+**Key Skills**: WordPress, Headless CMS, PHP, Gutenberg blocks, ACF, GraphQL, API
 
 ---
 ## Website for an IT-company
@@ -156,13 +160,12 @@ As a backend PHP developer on the project, my responsibilities included:
 
 The result was a robust, maintainable, and fully customized WordPress site tailored to the client’s business needs.
 
-
-**Key Skills**: WordPress, PHP, HTML5, ACF
+**Key Skills**: WordPress, PHP, Custom theme development, ACF, API integrations, HTML5
 
 ---
 ## GribVerden website
 
-![GribVerden website](img/GribVerden_Screenshot.png)
+![GribVerden website](/img/GribVerden_Screenshot.png)
 
 **Website**: [https://gribverden.dk/](https://gribverden.dk/)
 
@@ -174,7 +177,7 @@ Website for the Danish Ministry of Education and Research. This client wanted to
 
 I created this site from scratch using WordPress. I used Elementor to create the pages. In addition, I made my own plugin for more convenient navigation through the site content.
 
-**Key Skills**: HTML5, WordPress, WordPress Plugin, Elementor, PHP
+**Key Skills**: WordPress, PHP, Custom plugin development, Elementor, HTML5
 
 ---
 ## E-commerce Website
@@ -187,7 +190,7 @@ I created this site from scratch using WordPress. I used Elementor to create the
 
 **Description**:
 
-I developed an unique and user-friendly e-commerce website for a custom-printed socks manufacturer. The main feature of the site is an interactive product designer that allows customers to:
+I developed a unique and user-friendly e-commerce website for a custom-printed socks manufacturer. The main feature of the site is an interactive product designer that allows customers to:
 
 - Choose from different sock models  
 - Upload their own images  
@@ -218,7 +221,7 @@ To meet specific interactive requirements, I also wrote custom JavaScript script
 
 The final result fully met the client's expectations, and they were very satisfied with both the look and performance of the website.
 
-**Key Skills**: WordPress, JS
+**Key Skills**: WordPress, JavaScript, WPBakery (Visual Composer), Slider Revolution, IDX integration
 
 ---
 ## DeskCamera Project
@@ -237,7 +240,7 @@ The website includes multilingual support, allowing it to serve users from diffe
 
 To streamline content management and enhance flexibility, I developed a set of custom shortcodes tailored to the client’s specific needs. Additionally, I extended the built-in WooCommerce functionality to support unique business requirements, providing a more intuitive and customized e-commerce experience.
 
-**Key Skills**: PHP, WooCommerce, HTML5, WordPress, WordPress Plugin
+**Key Skills**: WordPress, PHP, Divi, WooCommerce, Custom shortcodes, Multilingual, HTML5
 
 ---
 ## Legal company website
@@ -256,6 +259,6 @@ In addition to creating the front-end layout with Elementor, I developed several
 
 These enhancements were designed to improve both the user experience and the site’s overall performance, while also giving the client greater control over content presentation.
 
-**Key Skills**: PHP, HTML5, SCSS, Elementor, Website, WordPress, WordPress Plugin
+**Key Skills**: WordPress, PHP, Elementor, Custom plugin development, Custom search, SCSS, HTML5
 
 ---
