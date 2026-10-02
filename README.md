@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+- [Plugin installations research at web scale](#plugin-installations-research-at-web-scale)
 - [Website for MyInterview Company](#website-for-myinterview-company)
 - [Website for a cybersecurity company](#website-for-a-cybersecurity-company)
 - [Website for an IT-company](#website-for-an-it-company)
@@ -10,6 +11,29 @@
 - [Real Estate website](#real-estate-website)
 - [DeskCamera Project](#deskcamera-project)
 - [Legal company website](#legal-company-website)
+
+---
+## Plugin installations research at web scale
+
+![Plugin installations research at web scale](/img/plugin_research.png)
+
+**Duration**: Aug, 2026
+
+**Description**:
+
+A data project for a client who needed to know which websites actually use a specific set of SaaS products for WordPress, not the vendors themselves but their customers. Commercial technology-lookup services did not know these plugins at all, so the data had to be collected from scratch.
+
+What I built:
+
+- A candidate universe from the Common Crawl index (118 million domains) instead of blind scanning
+- Plugin fingerprints based on REST API namespaces and HTML markers, each one verified against the real plugin code rather than vendor marketing
+- A probing pipeline where a single `GET /wp-json/` request checks a site for every product at once, running on a fleet of cloud VMs
+- Prioritization by measured density: a 2-million-domain sample predicted the full runs within 5%, which let us process the richest markets first
+- Delivery as per-product and merged datasets with the site language, in CSV and Parquet
+
+**Results**: 20 million domains checked with zero duplicates, 4.2 million WordPress sites identified, 12,543 confirmed installations, about twice the yield the client expected. One of the findings was that the site's language predicts installations much better than its domain zone.
+
+**Key Skills**: Python, Data pipeline, Web scraping, Common Crawl, WordPress REST API, Cloud infrastructure, Parquet
 
 ---
 ## Website for MyInterview Company
