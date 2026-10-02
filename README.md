@@ -2,15 +2,84 @@
 
 ## Table of Contents
 
+- [Website for a cybersecurity company](#website-for-a-cybersecurity-company)
+- [Makarski Bot Connector for Telegram (WordPress.org plugin)](#makarski-bot-connector-for-telegram-wordpressorg-plugin)
 - [Plugin installations research at web scale](#plugin-installations-research-at-web-scale)
 - [Website for MyInterview Company](#website-for-myinterview-company)
-- [Website for a cybersecurity company](#website-for-a-cybersecurity-company)
 - [Website for an IT-company](#website-for-an-it-company)
 - [GribVerden website](#gribverden-website)
 - [E-commerce Website](#e-commerce-website)
 - [Real Estate website](#real-estate-website)
 - [DeskCamera Project](#deskcamera-project)
 - [Legal company website](#legal-company-website)
+
+---
+## Website for a cybersecurity company
+
+![Website for a cybersecurity company](/img/cx_com.png)
+
+**Website**: [https://checkmarx.com/](https://checkmarx.com/)
+
+**Duration**: Feb, 2024 – Now
+
+**Description**:
+
+This website was developed for a major company in the cybersecurity industry. The project included several hundred pages built using a variety of custom templates. After launch I stayed on the project and keep developing and supporting it.
+
+One of the most interesting challenges was the client’s request to preserve part of the website from the previous version without any modifications. This unconventional architectural requirement could not be achieved using standard WordPress tools. However, I implemented several unique backend solutions that allowed us to fulfill all of the client's expectations seamlessly.
+
+I worked on this project as a backend WordPress developer. My responsibilities included:
+
+- Planning and estimating development timelines  
+- Creating a detailed roadmap for component development, including specifications, deadlines, and functional descriptions  
+- Developing custom Gutenberg blocks for various page templates  
+- Integrating these Gutenberg blocks with the front-end codebase  
+- Connecting the site with multiple third-party APIs  
+- Ensuring high standards of performance and security  
+- Automating the migration of content from the legacy version of the site  
+- Writing technical documentation  
+- Providing ongoing technical support to the client
+
+**Performance work (ongoing)**
+
+A large part of my current work on this site is mobile PageSpeed and Core Web Vitals. The live site still runs the previous build and scores about 35–37 on mobile PageSpeed; the rebuilt version scores 69 on staging, and the current goal is a Speed Index under 2 seconds so that LLM crawlers can index the site properly. What has been done so far:
+
+- Reduced the JavaScript and CSS bundle size
+- Tuned WP Rocket: deferred and delayed JavaScript, with exclusions for inline scripts that break when delayed
+- Kept the LCP image eager and preloaded, lazy-loaded everything below the fold
+- Optimized post images and thumbnails
+- Made the main menu cheaper to render
+- Improved the text-to-HTML ratio on the homepage and top-level pages
+
+This project demonstrated my ability to handle complex architecture and deliver reliable, scalable solutions for enterprise-level WordPress websites.
+
+**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, API, Performance optimization, Core Web Vitals, WP Rocket, Support
+
+---
+## Makarski Bot Connector for Telegram (WordPress.org plugin)
+
+![Makarski Bot Connector for Telegram](/img/tgbot_plugin_banner.png)
+
+**Website**: [https://wordpress.org/plugins/makarski-bot-connector-for-telegram/](https://wordpress.org/plugins/makarski-bot-connector-for-telegram/)
+
+**Duration**: Oct, 2025 – Now
+
+**Description**:
+
+My own open-source plugin, published in the official WordPress.org plugin directory. It connects WordPress to a Telegram bot and handles all the low-level work with the Telegram Bot API, so a bot's logic can be written as ordinary WordPress code with action hooks. I use it as the foundation for my own production Telegram bots.
+
+Main features:
+
+- Webhook mode, or polling via WP-Cron for hosting without a public HTTPS URL
+- Command routing and a single normalized hook for every message type (text, photo, voice, video, document, callback query)
+- A BotApi class with 30+ methods, including multipart uploads and Telegram Stars payments with refunds
+- Mass broadcast from the admin: per-language messages, cron-batched delivery with live progress and history
+- A tabbed Analytics page (commands, failed deliveries, acquisition sources from deep links, languages, referrals) that other plugins can extend with their own tabs
+- Automatic splitting of messages over Telegram's 4096-character limit, keeping HTML valid in every chunk
+- Privacy by default: users created for the bot are hidden from author archives, the sitemap and the public REST API
+- Built-in developer documentation in wp-admin, fully translatable
+
+**Key Skills**: WordPress Plugin, PHP, Telegram Bot API, REST API, WP-Cron, Payments, Open source
 
 ---
 ## Plugin installations research at web scale
@@ -60,48 +129,6 @@ I was responsible for developing the backend functionality of the project. My ta
 The final result was a modern, high-performance website that meets high standards of security, speed, and user experience.
 
 **Key Skills**: Headless, WordPress, PHP, Gutenberg blocks, ACF, GraphQL, API
-
----
-## Website for a cybersecurity company
-
-![Website for a cybersecurity company](/img/cx_com.png)
-
-**Website**: [https://checkmarx.com/](https://checkmarx.com/)
-
-**Duration**: Feb, 2024 – Now
-
-**Description**:
-
-This website was developed for a major company in the cybersecurity industry. The project included several hundred pages built using a variety of custom templates. After launch I stayed on the project and keep developing and supporting it.
-
-One of the most interesting challenges was the client’s request to preserve part of the website from the previous version without any modifications. This unconventional architectural requirement could not be achieved using standard WordPress tools. However, I implemented several unique backend solutions that allowed us to fulfill all of the client's expectations seamlessly.
-
-I worked on this project as a backend WordPress developer. My responsibilities included:
-
-- Planning and estimating development timelines  
-- Creating a detailed roadmap for component development, including specifications, deadlines, and functional descriptions  
-- Developing custom Gutenberg blocks for various page templates  
-- Integrating these Gutenberg blocks with the front-end codebase  
-- Connecting the site with multiple third-party APIs  
-- Ensuring high standards of performance and security  
-- Automating the migration of content from the legacy version of the site  
-- Writing technical documentation  
-- Providing ongoing technical support to the client
-
-**Performance work (ongoing)**
-
-A large part of my current work on this site is mobile PageSpeed and Core Web Vitals. The live site still runs the previous build and scores about 35–37 on mobile PageSpeed; the rebuilt version scores 69 on staging, and the current goal is a Speed Index under 2 seconds so that LLM crawlers can index the site properly. What has been done so far:
-
-- Reduced the JavaScript and CSS bundle size
-- Tuned WP Rocket: deferred and delayed JavaScript, with exclusions for inline scripts that break when delayed
-- Kept the LCP image eager and preloaded, lazy-loaded everything below the fold
-- Optimized post images and thumbnails
-- Made the main menu cheaper to render
-- Improved the text-to-HTML ratio on the homepage and top-level pages
-
-This project demonstrated my ability to handle complex architecture and deliver reliable, scalable solutions for enterprise-level WordPress websites.
-
-**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, API, Performance optimization, Core Web Vitals, WP Rocket, Support
 
 ---
 ## Website for an IT-company
