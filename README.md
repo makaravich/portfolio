@@ -44,11 +44,11 @@ The final result was a modern, high-performance website that meets high standard
 
 **Website**: [https://checkmarx.com/](https://checkmarx.com/)
 
-**Duration**: Feb, 2024 – Aug, 2024
+**Duration**: Feb, 2024 – Now
 
 **Description**:
 
-This website was developed for a major company in the cybersecurity industry. The project included several hundred pages built using a variety of custom templates.
+This website was developed for a major company in the cybersecurity industry. The project included several hundred pages built using a variety of custom templates. After launch I stayed on the project and keep developing and supporting it.
 
 One of the most interesting challenges was the client’s request to preserve part of the website from the previous version without any modifications. This unconventional architectural requirement could not be achieved using standard WordPress tools. However, I implemented several unique backend solutions that allowed us to fulfill all of the client's expectations seamlessly.
 
@@ -64,9 +64,20 @@ I worked on this project as a backend WordPress developer. My responsibilities i
 - Writing technical documentation  
 - Providing ongoing technical support to the client
 
+**Performance work (ongoing)**
+
+A large part of my current work on this site is mobile PageSpeed and Core Web Vitals. The live site still runs the previous build and scores about 35–37 on mobile PageSpeed; the rebuilt version scores 69 on staging, and the current goal is a Speed Index under 2 seconds so that LLM crawlers can index the site properly. What has been done so far:
+
+- Reduced the JavaScript and CSS bundle size
+- Tuned WP Rocket: deferred and delayed JavaScript, with exclusions for inline scripts that break when delayed
+- Kept the LCP image eager and preloaded, lazy-loaded everything below the fold
+- Optimized post images and thumbnails
+- Made the main menu cheaper to render
+- Improved the text-to-HTML ratio on the homepage and top-level pages
+
 This project demonstrated my ability to handle complex architecture and deliver reliable, scalable solutions for enterprise-level WordPress websites.
 
-**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, Support, API
+**Key Skills**: WordPress, PHP, Gutenberg blocks, ACF, API, Performance optimization, Core Web Vitals, WP Rocket, Support
 
 ---
 ## Website for an IT-company
